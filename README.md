@@ -1,6 +1,6 @@
 About
 
-Project scans a configured directory for file types with a specific mime type which at the moment is only configured for excel files.
+Project scans a configured directory for file types with a specific mime type which for this project is configured to be excel files.
 It then gathers the relevant vehicle registration from the file and inputs this into the Gov website for vehicle enquiries. It then tests
 if the vehicle details on the website match with the details in the file. It does have support for multiple rows of vehicle details in a single file
 but doesnt yet work for multiple files. 
